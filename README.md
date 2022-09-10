@@ -1,5 +1,5 @@
 # miniTIKTOK
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TephrocactusHC&repo=miniTIKTOK)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TephrocactusHC&repo=miniTIKTOK&show_owner=True)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 An app that imitates Tiktok and realizes the movie list function and personal interface. <br>
 第四届字节青训营客户端（安卓）的作品，实现一个极简抖音。
